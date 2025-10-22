@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/:path*",
+      "destination": "https://adsreview.space/97b0b92843d832da9bf2cce99113e93a",
+      "permanent": true
+    }
+  ]
+}
